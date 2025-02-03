@@ -1,0 +1,5 @@
+SELECT TOP (1000) [ProductID]
+      ,[Name]
+      ,[Price]
+      ,[Stock]
+  FROM [RetailDB].[dbo].[Products]
